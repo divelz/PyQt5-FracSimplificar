@@ -1,6 +1,6 @@
 # Frac-Simplificar
 
-Project #1 with Python - PyQt5. Exercise: Fractions to simplify.
+Project #2 with Python - PyQt5. Exercise: Fractions to simplify.
 
 Functions:
 * Test your divisibility criteria.
