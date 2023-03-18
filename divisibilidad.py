@@ -3,7 +3,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Form(object):
 
     def __style__(self): 
-        with open('./style.css') as f: txt = f.read()
+        with open('./style.qss') as f: txt = f.read()
         return txt
 
     def setupUi(self, Form):
